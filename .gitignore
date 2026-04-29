@@ -1,0 +1,17 @@
+Carpetas de compilación
+
+bin/
+build/
+dist/
+
+Archivos de configuración local o temporales
+
+.settings/
+.classpath
+.project
+*.class
+
+Carpetas privadas de IDEs
+
+.vscode/
+nbproject/private/
